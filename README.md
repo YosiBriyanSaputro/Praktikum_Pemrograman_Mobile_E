@@ -14,10 +14,10 @@
 
 | 🔢 No | 📆 Tanggal Praktikum | 📅 Minggu ke- | 📚 Modul ke- | 📝 Topik Praktikum        | 🔗 Link GitHub | 📄 Link Laporan |
 |------:|----------------------|---------------|--------------|---------------------------|----------------|-----------------|
-| 1     | 12 Sept 2025         | 1             | 1            | 🚀 Pengenalan Flutter & Setup | [📂 Repo](https://github.com/YosiBryanSaputro/Praktikum_Pemrograman_Mobile_E) | [📑 Laporan](https://example.com) |
+| 1     | 4 Sept 2025         | 1             | 1            | 🚀 Pengenalan Mobile Programming dan Setup Lingkungan | [📂 Repo](https://github.com/YosiBryanSaputro/Praktikum_Pemrograman_Mobile_E) | [📑 Laporan](https://example.com) |
 | 2     |                      |               |              |                           | [📂 Repo](#)   | [📑 Laporan](#) |
 | 3     |                      |               |              |                           | [📂 Repo](#)   | [📑 Laporan](#) |
 
 ---
 
-✨ *Update tabel setiap selesai praktikum agar progres selalu terdokumentasi dengan rapi.*
+
