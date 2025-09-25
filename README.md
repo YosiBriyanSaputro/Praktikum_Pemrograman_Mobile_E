@@ -23,4 +23,4 @@
 
 
 ### 📝 Note  
-- Praktikum terakhir 6.  
+- Praktikum terakhir 8.  
