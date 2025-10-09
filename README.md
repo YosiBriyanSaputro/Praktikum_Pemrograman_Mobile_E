@@ -21,7 +21,9 @@
 | 7      | 25 Sept 2025        |   4           |  7           | 🚀Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route    | [>demo_navigasi_pageroute](https://github.com/YosiBriyanSaputro/PrakMobile_3-1_Navigasi-Antar-Halaman-Menggunakan-MaterialPageRoute-dan-Named-Route.git)  <br>   [>demo_navigasi](https://github.com/YosiBriyanSaputro/PrakMobile_7-2_Navigasi-Antar-Halaman-Menggunakan-MaterialPageRoute-dan-Named-Route.git)  <br>   [>tugas_navigasi](https://github.com/YosiBriyanSaputro/PrakMobile_7-3_Tugas_Navigasi-Antar-Halaman-Menggunakan-MaterialPageRoute-dan-Named-Route.git)  | [Laporan_7](https://drive.google.com/file/d/16WC_eWVeWg20GCMSW1S4_zSFozjkUjlD/view?usp=sharing)   |
 | 8      | 25 Sept 2025        |   4           |  8           | 🚀Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route    | [>demo_navigasi_namedroute](https://github.com/YosiBriyanSaputro/PrakMobile_8-1_Navigasi-Antar-Halaman-dengan-Mengirimkan-Argumen-Menggunakan-Named-Route.git)  <br>   [>navigasi_argumen](https://github.com/YosiBriyanSaputro/PrakMobile_8-2_Navigasi-Antar-Halaman-dengan-Mengirimkan-Argumen-Menggunakan-Named-Route.git)  | [Laporan_8](https://drive.google.com/file/d/1x_Vy5kTam9uH1op3xPK9x7eRXSJqdlG6/view?usp=sharing)   |
 | 9      | 02 Okt 2025        |   5           |  9           | 🚀StatefulWidget	    | [>counterapp](https://github.com/YosiBriyanSaputro/PrakMobile_9-1_StatefulWidget_Praktikum_CounterApp.git)  <br>   [>tasbihap](https://github.com/YosiBriyanSaputro/PrakMobile_9-2_StatefulWidget_Tugas_TasbihApp.git)  | [Laporan_9](https://drive.google.com/file/d/1rd-av-w7EYzvwnKeOLxnrnWSQJ5EXliC/view?usp=sharing)   |
+| 10      | 09 Okt 2025        |   6           |  10           | 🚀Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter	    | [>game_app](https://github.com/YosiBriyanSaputro/PrakMobile_10_StatefulWidget_Tugas_GameApp_Desain-GUI-Navigasi-dan-Integrasi-API-dengan-JSON.git)   | [Laporan_10](https://drive.google.com/file/d/1LPVFgqRsE8mSpcu7GNsXbOi1YoK8O8ah/view?usp=sharing)   |
+
 
 
 ### 📝 Note  
-- Praktikum terakhir 9.  
+- Praktikum terakhir 10.  
