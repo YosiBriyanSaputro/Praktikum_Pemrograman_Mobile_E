@@ -23,8 +23,9 @@
 | 9      | 02 Okt 2025        |   5           |  9           | 🚀StatefulWidget	    | [>counterapp](https://github.com/YosiBriyanSaputro/PrakMobile_9-1_StatefulWidget_Praktikum_CounterApp.git)  <br>   [>tasbihap](https://github.com/YosiBriyanSaputro/PrakMobile_9-2_StatefulWidget_Tugas_TasbihApp.git)  | [Laporan_9](https://drive.google.com/file/d/1rd-av-w7EYzvwnKeOLxnrnWSQJ5EXliC/view?usp=sharing)   |
 | 10      | 09 Okt 2025        |   6           |  10           | 🚀Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter	    | [>game_app](https://github.com/YosiBriyanSaputro/PrakMobile_10_StatefulWidget_Tugas_GameApp_Desain-GUI-Navigasi-dan-Integrasi-API-dengan-JSON.git)   | [Laporan_10](https://drive.google.com/file/d/1LPVFgqRsE8mSpcu7GNsXbOi1YoK8O8ah/view?usp=sharing)   |
 | 11      | 16 Okt 2025        |   7           |  11           | 🚀Manajemen State dengan GetX		    | [>tasbih_getx](https://github.com/YosiBriyanSaputro/PrakMobile_11_Manajemen-State-dengan-GetX.git)   | [Laporan_11](https://drive.google.com/file/d/1mngsrAnGARr1w8tCiuamV7TNCEBEWIof/view?usp=sharing)   |
+| 12      | 23 OKT 2025        |   8           |  UTS           | 🚀UTS (HealthMate Islami – Aplikasi Pencatat Kesehatan Harian dengan Reminder Islami)   | [>UTS_Program](https://github.com/YosiBriyanSaputro/PrakMobile_UTS_-HealthMate-Islami-Aplikasi-Pencatat-Kesehatan-Harian-dengan-Reminder-Islami.git)  <br>   [>UTS_Figma](https://www.figma.com/design/z0b9fxb6kr1YBO0q84DZPD/Yosi-Briyan-Saputro_230605110055_PrakMobile_E_UTS?node-id=0-1&t=nyBIX7Q1Nf9DxE1O-1)  | [Laporan_UTS](https://drive.google.com/file/d/1m-er8sV4shEKAn8otdbZElYVAKhOFgUf/view?usp=sharing)   |
 
 
 
 ### 📝 Note  
-- Praktikum terakhir 11.  
+- UTS.  
