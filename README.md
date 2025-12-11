@@ -26,10 +26,11 @@
 | 12      | 23 OKT 2025        |   8           |  UTS           | 🚀UTS (HealthMate Islami – Aplikasi Pencatat Kesehatan Harian dengan Reminder Islami)   | [>UTS_Program](https://github.com/YosiBriyanSaputro/PrakMobile_UTS_-HealthMate-Islami-Aplikasi-Pencatat-Kesehatan-Harian-dengan-Reminder-Islami.git)  <br>   [>UTS_Figma](https://www.figma.com/design/z0b9fxb6kr1YBO0q84DZPD/Yosi-Briyan-Saputro_230605110055_PrakMobile_E_UTS?node-id=0-1&t=nyBIX7Q1Nf9DxE1O-1)  | [Laporan_UTS](https://drive.google.com/file/d/1m-er8sV4shEKAn8otdbZElYVAKhOFgUf/view?usp=sharing)   |
 | 13      | 06 Nov 2025        |   10           |  12           | 🚀Akses Lokasi dengan GPS di Flutter		    | [>lokasi_flutter](https://github.com/YosiBriyanSaputro/PrakMobile_12_Akses-Lokasi-dengan-GPS-di-Flutter.git)   | [Laporan_12](https://drive.google.com/file/d/1U5TDO6L-GcYowoKUdxxpMmJnh1NTWrAT/view?usp=sharing)   |
 | 14      | 13 Nov 2025        |   11           |  13           | 🚀Akses Lokasi dengan GPS di Flutter 1 (maps)	    | [>lokasi_maps](https://github.com/YosiBriyanSaputro/PrakMobile_13_Lokasi-Maps.git)   | [Laporan_13](https://drive.google.com/file/d/1R42EzA2GpwLcHWayyfpG1sRNNr4sEpqA/view?usp=sharing)   |
-| 15      | 20 Nov 2025        |   12           |  14           | 🚀	Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API	    | [>flutter_crud_api](https://github.com/YosiBriyanSaputro/PrakMobile_14_Operasi-CRUD-Create-Read-Update-Delete-di-Flutter-dengan-REST-API.git)   | [Laporan_14](https://drive.google.com/file/d/1Pp3TBc36m_sKIwWr7yULQRJBmVpp_VFI/view?usp=sharing)   |
+| 15      | 20 Nov 2025        |   12           |  14           | 🚀Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API	    | [>flutter_crud_api](https://github.com/YosiBriyanSaputro/PrakMobile_14_Operasi-CRUD-Create-Read-Update-Delete-di-Flutter-dengan-REST-API.git)   | [Laporan_14](https://drive.google.com/file/d/1Pp3TBc36m_sKIwWr7yULQRJBmVpp_VFI/view?usp=sharing)   |
+| 15      | 20 Nov 2025        |   16           |  UAS           | 🚀UAS (HealthMate Islami – Aplikasi Pencatat Kesehatan Harian dengan Reminder Islami)	    | [>UAS_Program](https://github.com/YosiBriyanSaputro/Praktikum_Pemrograman_Mobile_E_UAS_APP-HealthMate-Islami.git)   | [Laporan_UAS](https://drive.google.com/file/d/1lMqb57DwrjdmJsD7A1t9ezTAGTld-TWh/view?usp=sharing)   |
 
 
 
 
 ### 📝 Note  
-- UTS.  
+- SELESAI 1 SEMESTER.  
